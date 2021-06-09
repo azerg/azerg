@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 #### ⚡My GitHub Stats⚡
-<a href="https://azerg.com">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=azerg&show_icons=true&line_height=33&count_private=true&theme=dark" alt="azerg's GitHub Stats" />
 </a>
 
-<a href="https://azerg.com">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azerg&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
